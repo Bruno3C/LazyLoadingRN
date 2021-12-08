@@ -40,7 +40,7 @@ const App = () => {
               ...styles.image,
               opacity,
             }}
-              source={{ uri: 'https://github.com/Bruno3C.png'}}
+              source={{ uri: 'https://avatars.githubusercontent.com/u/87588900?v=4'}}
               onLoadEnd={onLoadEnd}
             />
           )
